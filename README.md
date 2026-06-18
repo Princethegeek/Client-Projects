@@ -16,5 +16,12 @@ https://www.jsmithilaudyog.in
 - WhatsApp Integration
 - Mobile-Friendly Layout
 
+## Deployment Technologies
+
+- GitHub (Source Code Management)
+- Netlify (Website Hosting)
+- Cloudflare (DNS & SSL Management)
+- Big rock (jsmithilaudyog.in)
+
 ## Developer
 Prince Kumar
